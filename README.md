@@ -55,11 +55,12 @@ No missing values
 
 
 
-<h2>🎯 Target Variable</h2>
-- diagnosed_diabetes
-- 1 → Diagnosed with diabetes
-- 0 → Not diagnosed
-
+##🎯 Target Variable
+```text
+"diagnosed_diabetes"
+1 → Diagnosed with diabetes
+0 → Not diagnosed
+```
 <h2>⚙️ Technologies Used</h2>
 <ul>
   <li><strong>Python</strong></li>
