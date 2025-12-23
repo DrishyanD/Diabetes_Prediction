@@ -1,13 +1,12 @@
 <h1>🩺 Diabetes Prediction Using Machine Learning</h1>
-This project focuses on predicting whether an individual is diagnosed with diabetes using a large-scale health and lifestyle dataset. The dataset contains 700,000 records with demographic, behavioral, physiological, and medical history features.
+<ul>
+  <li>This project focuses on predicting whether an individual is diagnosed with diabetes using a large-scale health and lifestyle dataset. The dataset contains 700,000 records with demographic, behavioral, physiological, and medical history features.</li>
+  <li>The goal is to analyze risk factors and build machine learning models that can accurately predict diabetes diagnosis.</li>
+</ul>
+<h2> 📌 Project Overview </h2>h2>
+<p></p>Diabetes is a growing global health concern. Early identification of high-risk individuals can help in prevention and better disease management. In this project, supervised machine learning techniques are applied to predict diagnosed_diabetes based on lifestyle habits, biometric measurements, and medical history. </p>
 
-The goal is to analyze risk factors and build machine learning models that can accurately predict diabetes diagnosis.
-
-📌 Project Overview
-Diabetes is a growing global health concern. Early identification of high-risk individuals can help in prevention and better disease management.
-In this project, supervised machine learning techniques are applied to predict diagnosed_diabetes based on lifestyle habits, biometric measurements, and medical history.
-
-📂 Project Structure
+<h2>📂 Project Structure</h2>
 ├── Diabetes_Prediction.ipynb
 ├── data/
 │   └── diabetes_dataset.csv
