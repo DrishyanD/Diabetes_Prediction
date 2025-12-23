@@ -1,4 +1,4 @@
-🩺 Diabetes Prediction Using Machine Learning
+<h1>🩺 Diabetes Prediction Using Machine Learning</h1>
 This project focuses on predicting whether an individual is diagnosed with diabetes using a large-scale health and lifestyle dataset. The dataset contains 700,000 records with demographic, behavioral, physiological, and medical history features.
 
 The goal is to analyze risk factors and build machine learning models that can accurately predict diabetes diagnosis.
