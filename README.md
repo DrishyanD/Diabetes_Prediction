@@ -7,10 +7,13 @@
 <p></p>Diabetes is a growing global health concern. Early identification of high-risk individuals can help in prevention and better disease management. In this project, supervised machine learning techniques are applied to predict diagnosed_diabetes based on lifestyle habits, biometric measurements, and medical history. </p>
 
 ## 📂 Project Structure
+
+```text
 ├── Diabetes_Prediction.ipynb
 ├── data/
 │   └── diabetes_dataset.csv
 └── README.md
+```
 
 <h2>📊 Dataset Information</h2>
 Total records: 700,000
@@ -19,34 +22,37 @@ Memory usage: ~139 MB
 No missing values
 
 <h2>🔢 Numerical Features</h2>
-- age
-- alcohol_consumption_per_week
-- physical_activity_minutes_per_week
-- diet_score
-- sleep_hours_per_day
-- screen_time_hours_per_day
-- bmi
-- waist_to_hip_ratio
-- systolic_bp
-- diastolic_bp
-- heart_rate
-- cholesterol_total
-- hdl_cholesterol
-- ldl_cholesterol
-- triglycerides
-- family_history_diabetes
-- hypertension_history
-- cardiovascular_history
-
-
+<ul>
+  <li>age</li>
+  <li>alcohol_consumption_per_week</li>
+  <li>physical_activity_minutes_per_week</li>
+  <li>diet_score</li>
+  <li>sleep_hours_per_day</li>
+  <li>screen_time_hours_per_day</li>
+  <li>bmi</li>
+  <li>waist_to_hip_ratio</li>
+  <li>systolic_bp</li>
+  <li>diastolic_bp</li>
+  <li>heart_rate</li>
+  <li>cholesterol_total</li>
+  <li>hdl_cholesterol</li>
+  <li>ldl_cholesterol</li>
+  <li>triglycerides</li>
+  <li>family_history_diabetes</li>
+  <li>hypertension_history</li>
+  <li>cardiovascular_history</li>
+</ul>
 
 <h2>🧾 Categorical Features</h2>
-- gender
-- ethnicity
-- education_level
-- income_level
-- smoking_status
-- employment_status
+<ul>
+  <li>gender</li>
+  <li>ethnicity</li>
+  <li>education_level</li>
+  <li>income_level</li>
+  <li>smoking_status</li>
+  <li>employment_status</li>
+</ul>
+
 
 
 <h2>🎯 Target Variable</h2>
